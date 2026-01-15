@@ -54,7 +54,7 @@ The attack chain maps to MITRE ATT&CK techniques including:
 
 ---
 
-## Authors
+## Author
 
 - Cuong Nguyen  
 
@@ -68,4 +68,5 @@ The attack chain maps to MITRE ATT&CK techniques including:
 - [AWS Systems Manager Session Manager](https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager.html)  
 
 ---
+
 
